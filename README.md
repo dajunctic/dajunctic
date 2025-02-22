@@ -3,15 +3,15 @@
 My name is Vũ Quý Đạt, currrently a student at UET-VNU 🇻🇳.
 This is the space that I will introduce somethings about me
 
-💻**Favourite programing language, Framework, Library and Editor**
+💻**Favourite programing language, Framework, Library and Engine**
+- *C#*: Unity
 - *Python*: Pygame, OpenCV
 - *C++*: SDL2
-- *C#*: Unity
 
 ⚔️**Favourite IDE and Text Editor**
+- Rider
 - Pycharm
 - Visual Studio Code
-- Visual Studio
 - Sublime Text
 
 ⚡**Some personal fun fact in life**
